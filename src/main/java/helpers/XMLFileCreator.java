@@ -36,6 +36,3 @@ public class XMLFileCreator {
         }
     }
 }
-
-
-//https://softwarecave.org/2014/02/15/write-xml-documents-using-streaming-api-for-xml-stax/
